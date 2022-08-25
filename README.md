@@ -1,5 +1,4 @@
 # Senai-branch-simultanea
-Simulação de trabalho colaborativo com diferentes branch's e finalização em merge.
 
 <h1>Simulação de trabalho colaborativo com diferentes branch's e finalização em merge.</h1>
 
