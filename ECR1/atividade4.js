@@ -1,5 +1,5 @@
 let idade = 18;
-let listaDePessoas = 100;
+let listaDePessoas = 99;
 
 if (idade >= 18 && listaDePessoas < 100) {
     console.log("Bem vindo a festa!")
